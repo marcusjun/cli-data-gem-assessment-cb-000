@@ -1,8 +1,12 @@
 # WeatherAlertMbj
 
-This gem uses webscraping to get National Weather Service weather alerts by state. See https://alerts.weather.gov/
+This gem uses webscraping to get National Weather Service weather alerts by state. https://alerts.weather.gov/
 
 ## Installation
+
+https://github.com/marcusjun/weather-alert-mbj-cli-app
+
+https://rubygems.org/gems/weather_alert_mbj
 
 Add this line to your application's Gemfile:
 
@@ -18,9 +22,12 @@ Or install it yourself as:
 
     $ gem install weather_alert_mbj
 
+
 ## Usage
 
-TODO: Write usage instructions here
+Run the executable in bin/weather-alert-mbj with the following command
+
+  ```$ ./bin/weather-alert-mbj```
 
 ## Development
 
@@ -30,7 +37,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/'marcusjun'/weather_alert_mbj.
+Bug reports and pull requests are welcome on GitHub at https://github.com/marcusjun/weather_alert_mbj.
 
 ## License
 
